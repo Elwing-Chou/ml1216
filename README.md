@@ -25,3 +25,4 @@ content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 
 [w2v](https://colab.research.google.com/drive/1ViQxHhPZtGRKDO9ELAXEVux7bAgvY0In?usp=sharing)
 
+[Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
